@@ -1,0 +1,6 @@
+{
+  "name": "시트보드 - 구글 시트 연동 초간단 방명록",
+  "description": "구글 스프레드시트를 데이터베이스로 활용하는 감각적인 다크 모드 방명록 & 게시판 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
